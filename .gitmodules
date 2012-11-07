@@ -1,0 +1,3 @@
+[submodule "graphics_submodule"]
+	path = graphics_submodule
+	url = https://github.com/avmac/graphics_submodule.git
